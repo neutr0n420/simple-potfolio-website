@@ -25,6 +25,7 @@ body{
     margin-left: auto;
     margin-right: auto;
     justify-content: space-around;
+    
 
 }
 .message{
@@ -33,6 +34,7 @@ body{
     margin-right: auto;
     text-align: center;
     font-size: larger;
+    
 }
 .linkedIn{
     width: 30px;
